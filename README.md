@@ -1,1 +1,1 @@
-# Competetive-Programming-and-Math_Olympiad
+# Competetive_Programming-and-Math_Olympiad
